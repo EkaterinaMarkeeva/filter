@@ -1,0 +1,15 @@
+*{
+  border: none;
+  background-color: transparent;
+}
+
+.btn {
+  margin-right: 5px;
+  padding: 10px 15px;
+  border: 1px solid #545454;
+}
+
+.active {
+  color: #fff;
+  background-color: #545454;
+}
